@@ -6,6 +6,7 @@ import pandas as pd
 
 
 print ("Welcome !!!!!!!!!!")
+print("Great news")
 # Load the data from the CSV file.
 data = pd.read_csv("data.csv")
 
