@@ -4,6 +4,8 @@
 
 import pandas as pd
 
+
+print ("Welcome !!!!!!!!!!")
 # Load the data from the CSV file.
 data = pd.read_csv("data.csv")
 
