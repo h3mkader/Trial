@@ -17,6 +17,7 @@ print()
 # Total revenue across everything.
 total_revenue = data["revenue"].sum()
 print("Total revenue:", total_revenue)
+print("Average revenue",data["revenue"].mean())
 
 # Total number of orders.
 total_orders = data["orders"].sum()
